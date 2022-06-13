@@ -3,7 +3,8 @@
 # Movie Recommendation
 
 ### Software 
-Mathematica 
+Mathematica
+[<img alt="Mathematica Logo" width="17px" src="images/Mathematica_Logo.svg.png" />](https://www.wolfram.com/mathematica/)
 
 [Dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) - Dataset provided by Netflix for the Netflix challenge 
 
